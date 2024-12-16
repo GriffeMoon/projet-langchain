@@ -1,4 +1,4 @@
-# Évaluation Moral et Éthiques des LLMs
+# Évaluation Morale et Éthique des LLMs
 
 # Méthodologie et Données
 Cette étude est portée sur une analyse comparative du raisonnement moral de trois LLMs différents ; Gemma 2 :2b, Llama 3.2 et QwQ-32B-Preview.
