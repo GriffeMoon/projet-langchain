@@ -4,7 +4,7 @@
 Cette étude est portée sur une analyse comparative du raisonnement moral de trois LLMs différents ; Gemma 2 :2b, Llama 3.2 et QwQ-32B-Preview.
 A cet effet, cent scénarii ont été émis aux différents modèles. Ces scénarii constituent différentes situations invoquant des dilemmes moraux et éthiques variés.
 Ils ont été, en premier lieu, rédigés par les auteurs ou tirés de réponses générées et parfois adaptées selon les besoins.
-Par la suite, ils ont été augmentés par des modèles de langage afin d’obtenir un corpus conséquent.
+Par la suite, ils ont été augmentés par des modèles de langage afin d’obtenir un corpus conséquent. L'origine de la rédaction des scénarii (humain ou ia) est visible dans le fichier _scenario_origin.csv_.
 
 Il a ensuite été demandé aux modèles de produire une analyse morale et éthique, en suivant les quatre points indiqués dans le prompt suivant :
 ```
